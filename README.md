@@ -1,6 +1,6 @@
 # quantum_surface_codes
 
-## Graph C^*-algebras as Operator Algebras for Entangled Cyclic Harmonic Oscillators
+## Graph C*-algebras as Operator Algebras for Entangled Cyclic Harmonic Oscillators
 
 See Example 2.14 pg. 21 of [Raeburn](https://wiki.math.ntnu.no/_media/ma8107/2014h/iain_raeburn_cbmsnov2_.pdf) give the construction of graph $C^*$-algebras associated to cyclic quivers. These algebras can be associated to infinite cyclic harmonic oscillators similar to [t'Hooft's cogwheel model](https://arxiv.org/abs/1405.1548). 
 
